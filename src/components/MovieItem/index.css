@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.img {
+  height: 20vh;
+  width: 300px;
+  background-size: cover;
+}
+
+.cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  height: auto;
+  width: 100%;
+  margin: 20px;
+}
